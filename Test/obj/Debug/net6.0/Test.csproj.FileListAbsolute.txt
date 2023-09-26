@@ -1,0 +1,14 @@
+C:\Users\ХХХ\Documents\GitHub\Test\Test\bin\Debug\net6.0\Test.exe
+C:\Users\ХХХ\Documents\GitHub\Test\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\ХХХ\Documents\GitHub\Test\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\ХХХ\Documents\GitHub\Test\Test\bin\Debug\net6.0\Test.dll
+C:\Users\ХХХ\Documents\GitHub\Test\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.dll
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\refint\Test.dll
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\Users\ХХХ\Documents\GitHub\Test\Test\obj\Debug\net6.0\ref\Test.dll

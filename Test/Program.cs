@@ -3,19 +3,16 @@
     using System;
         class Program
     {
-        // Функція для переведення числа в двійкову систему
         static string DecimalToBinary(int decimalNumber)
         {
             return Convert.ToString(decimalNumber, 2);
         }
 
-        // Функція для переведення числа в вісімкову систему
         static string DecimalToOctal(int decimalNumber)
         {
             return Convert.ToString(decimalNumber, 8);
         }
 
-        // Функція для переведення числа в шістнадцяткову систему
         static string DecimalToHexadecimal(int decimalNumber)
         {
             return Convert.ToString(decimalNumber, 16);
